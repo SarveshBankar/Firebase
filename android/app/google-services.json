@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441028752943",
+    "project_id": "twenty-a77d3",
+    "storage_bucket": "twenty-a77d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441028752943:android:bffb07dbbf2931562738da",
+        "android_client_info": {
+          "package_name": "com.example.twentyone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Mb25N-jo7h__n9h6blfmB5xvi2V-ZTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
